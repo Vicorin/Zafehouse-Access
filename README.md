@@ -113,3 +113,10 @@ The content editor allows you to create your own survivors, location photos, occ
 * arrow keys - navigate items/controls in the component that has focus
 * Enter - Activate
 
+## AI Disclosure & Credits
+AI was used in the creation of this mod.Huge thanks to Happy Starfish for their [Accessibility Modding Template](https://github.com/HappyStarfish/Accessibility-mod-template), which was instrumental to the success of this project and my own learning journey.
+
+## Support my Work
+I do this because I like to play games, not for money. If you do want to support my work and buy more cookies for Claude (who is always hungry) then feel free to donate using the following link:
+
+[Send me money on Ko-Fi]()https://ko-fi.com/axdelvegames)
