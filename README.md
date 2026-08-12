@@ -28,7 +28,7 @@ You can uninstall the game using the installer. Alternatively, delete the mod fi
 * Press F1 in-game to activate the help overlay, which explains mechanics and controls for the screen you're currently viewing. Press CTRL+O on the help overlay to open the entire help system as an HTML document in your web browser.
 * Press F2 to toggle input help, which will speak available key commands on the various screens when the view changes.
 
-You can also join the [Axdelve Games Discord Server](https://discord.gg/sKCCx9NFd) to ask questions, receive support, and chat with others about the game.
+You can also join the [Axdelve Games Discord Server](https://discord.gg/avQTPGy2FA)) to ask questions, receive support, and chat with others about the game.
 # Interface and Controls
 ## menus
 Includes main menu, pause menu, game mode select, and options
